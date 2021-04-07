@@ -18,5 +18,5 @@ Please follow these steps:
 2. download the repository with the 'Code' button: 'download zip'
 3. save the un-zipped folder in a directory
 4. select the directory in your terminal
-5. use the command `jupyter notebook
+5. use the command `jupyter notebook`
 6. a browser window opens automatically: select the notebook you want to explore
