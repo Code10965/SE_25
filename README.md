@@ -3,7 +3,7 @@
 This repository contains all jupyter notebooks relevant for the assessment in SE_25 'data science'.
 
 # 1. Content
-***
+
 This repository contains the three guided exercises from DataCamp in the 'DataCamp' project directory. The project directory ‘Kaggle_OwnProject' contains my unguided research project.
 
 In the ‘Kaggle_OwnProject' you can find six jupyter notebooks, a folder ‘datasets’, and two images. The six jupyter notebooks are:
@@ -25,10 +25,11 @@ The 'datasets' folder contains the file 'aug_train.csv'. It holds the dataset us
 The repository also includes the self-assessment and my portfolio for the assessment in SE25.
 
 # 2. Required libraries/modules:
-***
+
 All required libraries are in the requirements.txt file. Please run it with `$pip install -r requirements.txt`
 
 # 3. Steps to reproduce:
+
 Please follow these steps:
 1. install the required libraries 
 2. select the repository 'SE_25'
