@@ -1,10 +1,12 @@
 # **SE_25**
 
-This repository contains all jupyter notebooks relevant for the assessment in SE_25 'data science'.
+This repository contains all documents relevant for the assessment in SE_25 'data science'.
 
 # 1. Content
 
-This repository contains the three guided exercises from DataCamp in the 'DataCamp' project directory. The project directory ‘Kaggle_OwnProject' contains my unguided research project.
+- This repository contains the three guided exercises from DataCamp in the 'DataCamp' project directory. 
+- The project directory ‘Kaggle_OwnProject' contains my unguided research project.
+- It also contains two portfolio documents and my self-assessment document.
 
 In the ‘Kaggle_OwnProject' folder you can find six jupyter notebooks, a folder ‘datasets’, a requirements.txt file and two images. The six jupyter notebooks are:
 - ### **DATA_CLEANING:** 
