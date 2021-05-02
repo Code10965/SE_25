@@ -6,17 +6,25 @@ This repository contains all jupyter notebooks relevant for the assessment in SE
 This repository contains the three guided exercises from DataCamp in the 'DataCamp' project directory. The project directory ‘Kaggle_OwnProject' contains my unguided research project.
 
 In the ‘Kaggle_OwnProject' you can find six jupyter notebooks, a folder ‘datasets’, and two images. The six jupyter notebooks are:
-- ### **DATA_CLEANING:** this should be opened first to ensure that the code cleans and pre-processes the data so that other notebooks can use it
-- ### **MAIN_DOCUMENT:** this notebook summarises all the results of my analysis and contains the report
-- ### **PLOT_FUNCTIONS:** this notebook has the code for all data visualization functions.
-- ### **XGBOOST_MODELLING:** this notebook shows the code from the machine learning process performed in the analysis process
-- ### **SHAP_VALUES:** this notebook shows the code used for analyzing the ML model.
-- ### **CHI2_TEST:** this notebook contains the code used to evaluate the results from the SHAP analysis. 
+- ### **DATA_CLEANING:** 
+  this notebook should be opened first to ensure that the code cleans and pre-processes the data so that other notebooks can use it
+- ### **MAIN_DOCUMENT:** 
+  this notebook summarises all the results of my analysis and contains the report
+- ### **PLOT_FUNCTIONS:**
+  this notebook has the code for all data visualization functions.
+- ### **XGBOOST_MODELLING:**
+  this notebook shows the code from the machine learning process performed in the analysis process
+- ### **SHAP_VALUES:** 
+  this notebook shows the code used for analyzing the ML model.
+- ### **CHI2_TEST:**
+  this notebook contains the code used to evaluate the results from the SHAP analysis. 
+
+The 'datasets' folder contains the file 'aug_train.csv'. It contains the dataset used in this project. The folder is supplemented during data pre-processing and cleansing with files resulting from the steps in the 'DATA-CLEANING' notebook.
 
 The repository also includes the self-assessment and my portfolio for the assessment in SE25.
 
-# 2. Required libraries:
-### general sys modules / libraries
+# 2. Required libraries/modules:
+### general modules / libraries
 - sys
 - warnings  
 - nbimporter
@@ -46,7 +54,7 @@ The repository also includes the self-assessment and my portfolio for the assess
 - from sklearn.model_selection: GridSearchCV
 - from sklearn.model_selection: train_test_split
 
-# 3. Steps to Reproduce:
+# 3. Steps to reproduce:
 Please follow these steps:
 1. install the required libraries 
 2. select the repository 'SE_25'
