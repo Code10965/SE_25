@@ -19,7 +19,7 @@ In the ‘Kaggle_OwnProject' you can find six jupyter notebooks, a folder ‘dat
 - ### **CHI2_TEST:**
   this notebook contains the code used to evaluate the results from the SHAP analysis. 
 
-The 'datasets' folder contains the file 'aug_train.csv'. It contains the dataset used in this project. The folder is supplemented during data pre-processing and cleansing with files resulting from the steps in the 'DATA-CLEANING' notebook.
+The 'datasets' folder contains the file 'aug_train.csv'. It holds the dataset used in this project. The folder is supplemented during data pre-processing and cleansing with files resulting from the steps in the 'DATA-CLEANING' notebook (the five most relevant are uploaded to support the reproducing). 
 
 The repository also includes the self-assessment and my portfolio for the assessment in SE25.
 
