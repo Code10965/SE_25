@@ -2,7 +2,7 @@
 
 This repository contains all documents relevant for the assessment in SE_25 'data science'.
 
-# 1. Content
+## 1. Content
 
 - This repository contains the three guided exercises from DataCamp in the 'DataCamp' project directory. 
 - The project directory ‘Kaggle_OwnProject' contains my unguided research project.
@@ -26,11 +26,11 @@ The 'datasets' folder contains the file 'aug_train.csv'. It holds the dataset us
 
 The repository also includes the self-assessment and my portfolio for the assessment in SE25.
 
-# 2. Required libraries/modules for reproducing:
+## 2. Required libraries/modules for reproducing:
 
 The folders 'Kaggle_OwnProject' and 'DataCamp' have each a requirements.txt file that contains all required libraries. Please run each file with `$pip install -r requirements.txt`
 
-# 3. Steps to reproduce:
+## 3. Steps to reproduce:
 
 Please follow these steps:
 1. select the repository 'SE_25'
