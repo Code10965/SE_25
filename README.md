@@ -26,9 +26,9 @@ The 'datasets' folder contains the file 'aug_train.csv'. It holds the dataset us
 
 The repository also includes the self-assessment and my portfolio for the assessment in SE25.
 
-# 2. Required libraries/modules for reproducing 'Kaggle_OwnProject':
+# 2. Required libraries/modules for reproducing:
 
-All required libraries are in the requirements.txt file. Please run it with `$pip install -r requirements.txt`
+The folders 'Kaggle_OwnProject' and 'DataCamp' have each a requirements.txt file that contains all required libraries. Please run each file with `$pip install -r requirements.txt`
 
 # 3. Steps to reproduce:
 
